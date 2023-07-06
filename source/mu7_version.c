@@ -20,6 +20,6 @@
 
 const mu0_uint32_t   __MU7_VERSION_NUMBER__ =  100 ;
 const mu0_tchar8_t * __MU7_VERSION_STRING__ = "100";
-const mu0_tchar8_t * __MU7_VERSION_TOCKEN__ = "mu578@mu0$100";
+const mu0_tchar8_t * __MU7_VERSION_TOCKEN__ = "mu578@mu7$100";
 
 /* EOF */
