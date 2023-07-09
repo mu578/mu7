@@ -15,6 +15,7 @@
 // Copyright (C) 2023 mu578. All rights reserved.
 //
 
+#include <mu7/mu7_reference/mu7_cgemm.h>
 #include <mu7/mu7_reference/mu7_gemm.h>
 #include <mu7/mu7_reference/mu7_lsame.h>
 #include <mu7/mu7_reference/mu7_operator.h>
