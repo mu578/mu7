@@ -15,6 +15,7 @@
 // Copyright (C) 2023 mu578. All rights reserved.
 //
 
+#include <mu8/mu8_functional.h>
 #include <mu7/mu7_reference/mu7_lsame.h>
 #include <mu7/mu7_reference/mu7_operator.h>
 #include <mu7/mu7_reference/mu7_xerbla.h>
